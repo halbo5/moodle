@@ -16,6 +16,10 @@ img.small-logo {
     margin: 3px 10px 3px 0;
 }
 
+#participants img.icon {
+	cursor:pointer;
+}
+
 @media (max-width: 767px) {
     img.small-logo {
         margin: 3px;
